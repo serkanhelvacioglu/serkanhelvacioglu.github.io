@@ -1,0 +1,12 @@
+baseURL = 'http://www.canonicode.com/'
+languageCode = 'en-us'
+title = 'Canonicode'
+
+theme = 'hugo-theme-gruvbox'
+
+[params.Logo]
+    Text = "edu.Canonicode"
+
+[taxonomies]
+    category = "categories"
+    tag = "tags"

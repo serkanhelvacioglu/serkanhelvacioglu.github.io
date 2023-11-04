@@ -1,0 +1,10 @@
+{
+ "compilerOptions": {
+  "baseUrl": ".",
+  "paths": {
+   "*": [
+    "..\\themes\\hugo-theme-gruvbox\\node_modules\\prismjs\\*"
+   ]
+  }
+ }
+}
